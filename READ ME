@@ -1,0 +1,7 @@
+This provides the MATLAB to run the tool discussed in https://www.rpsonline.com.sg/proceedings/esrel2022/html/R12-12-372.xml
+
+This tool is part of the Virtual Raphael collection developed for the Human Reliablity, Human Factors and related fields.
+
+This tool learns the causal relationships between performance shaping factors from past accident data, which is the used to produce the network structure necessary for creating a Bayesian Network model.
+
+The tool has both a score and a constraint based algorithm for determining these relationships/structures. The tool is also encoded with a table of relationships determined by an expert that can also be integraed in the output. 
